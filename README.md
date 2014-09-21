@@ -17,4 +17,4 @@ Libraries:
 - picasso-2.3.4.jar
 
 
-https://github.com/olevitsky/GridImageSearch/blob/master/gridImageSearchDemo.gif
+
